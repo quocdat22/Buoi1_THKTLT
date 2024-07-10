@@ -18,5 +18,13 @@
     <ClCompile Include="Buoi1_THKTLT.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Bai5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BaiTap.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

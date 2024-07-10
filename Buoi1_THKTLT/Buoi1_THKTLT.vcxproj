@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Bai5.cpp" />
     <ClCompile Include="Buoi1_THKTLT.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BaiTap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

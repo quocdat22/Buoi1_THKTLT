@@ -1,6 +1,5 @@
-#include<stdio.h>
-
+﻿#include "BaiTap.h"
 
 void main() {
-	printf("Hello World\n");
+	bai5();
 }
