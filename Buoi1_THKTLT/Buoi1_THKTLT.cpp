@@ -1,5 +1,6 @@
 ﻿#include "BaiTap.h"
 
 void main() {
-	bai5();
+	bai6();
+	//bai5();
 }
