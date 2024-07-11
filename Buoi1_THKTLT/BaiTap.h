@@ -3,5 +3,6 @@
 
 void bai5();
 void bai6();
+void bai7();
 
 #endif
