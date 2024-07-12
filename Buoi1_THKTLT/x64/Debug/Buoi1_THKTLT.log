@@ -1,6 +1,3 @@
-﻿  Bai7.cpp
-C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\Buoi1_THKTLT\Bai7.cpp(20,10): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 3 has type 'int *'
-C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\Buoi1_THKTLT\Bai7.cpp(20,10): warning C4313: 'printf': '%x' in format string conflicts with argument 3 of type 'int *'
-C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\Buoi1_THKTLT\Bai7.cpp(33,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'int *'
-C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\Buoi1_THKTLT\Bai7.cpp(33,9): warning C4313: 'printf': '%x' in format string conflicts with argument 2 of type 'int *'
+﻿  Bai8.cpp
+C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\Buoi1_THKTLT\Bai8.cpp(79,9): warning C4101: 'result': unreferenced local variable
   Buoi1_THKTLT.vcxproj -> C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\x64\Debug\Buoi1_THKTLT.exe
