@@ -4,6 +4,7 @@
 #include "BaiTap.h"
 #include <math.h>
 
+
 void nhapM1C_SoNguyen(int*& a, int& n)
 { //a và n là tham chiếu vì sau khi nhập giá trị, a và n cần giữ các giá trị mới nhận trong hàm
 	n = 10;

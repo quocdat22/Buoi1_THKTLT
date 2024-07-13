@@ -1,7 +1,8 @@
 ﻿#include "BaiTap.h"
 
 void main() {
-	bai10();
+	bai11();
+	//bai10();
 	//bai9();
 	//bai8();
 	//bai7();

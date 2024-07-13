@@ -1,2 +1,4 @@
-﻿  Bai10.cpp
+﻿  Bai11.cpp
+C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\Buoi1_THKTLT\Bai11.cpp(18,10): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 3 has type 'int *'
+C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\Buoi1_THKTLT\Bai11.cpp(18,10): warning C4313: 'printf': '%x' in format string conflicts with argument 3 of type 'int *'
   Buoi1_THKTLT.vcxproj -> C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\x64\Debug\Buoi1_THKTLT.exe

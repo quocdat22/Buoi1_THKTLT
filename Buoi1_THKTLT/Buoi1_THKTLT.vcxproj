@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Bai10.cpp" />
+    <ClCompile Include="Bai11.cpp" />
     <ClCompile Include="Bai5.cpp" />
     <ClCompile Include="Bai6.cpp" />
     <ClCompile Include="Bai7.cpp" />
