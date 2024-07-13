@@ -1,12 +1,2 @@
-﻿  Bai9.cpp
-C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\Buoi1_THKTLT\Bai9.cpp(8,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'float **'
-C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\Buoi1_THKTLT\Bai9.cpp(8,9): warning C4313: 'printf': '%x' in format string conflicts with argument 2 of type 'float **'
-C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\Buoi1_THKTLT\Bai9.cpp(14,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'float **'
-C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\Buoi1_THKTLT\Bai9.cpp(14,9): warning C4313: 'printf': '%x' in format string conflicts with argument 2 of type 'float **'
-C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\Buoi1_THKTLT\Bai9.cpp(20,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'float **'
-C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\Buoi1_THKTLT\Bai9.cpp(20,9): warning C4313: 'printf': '%x' in format string conflicts with argument 2 of type 'float **'
-C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\Buoi1_THKTLT\Bai9.cpp(26,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'float **'
-C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\Buoi1_THKTLT\Bai9.cpp(26,9): warning C4313: 'printf': '%x' in format string conflicts with argument 2 of type 'float **'
-C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\Buoi1_THKTLT\Bai9.cpp(32,10): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\Buoi1_THKTLT\Bai9.cpp(32,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+﻿  Bai10.cpp
   Buoi1_THKTLT.vcxproj -> C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\x64\Debug\Buoi1_THKTLT.exe
