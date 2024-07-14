@@ -1,2 +1,3 @@
-﻿  Bai12.cpp
+﻿  Bai13.cpp
+C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\Buoi1_THKTLT\Bai13.cpp(31,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Buoi1_THKTLT.vcxproj -> C:\Users\datho\OneDrive\Documents\CNTT\Ky thuat lap trinh\thuc hanh\Buoi1_THKTLT\x64\Debug\Buoi1_THKTLT.exe
