@@ -8,5 +8,6 @@ void bai8();
 void bai9();
 void bai10();
 void bai11();
+void bai12();
 
 #endif
