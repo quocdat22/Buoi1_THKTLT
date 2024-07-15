@@ -10,5 +10,6 @@ void bai10();
 void bai11();
 void bai12();
 void bai13();
+void bai14();
 
 #endif

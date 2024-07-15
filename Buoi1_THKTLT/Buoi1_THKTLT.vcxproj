@@ -131,6 +131,7 @@
     <ClCompile Include="Bai11.cpp" />
     <ClCompile Include="Bai12.cpp" />
     <ClCompile Include="Bai13.cpp" />
+    <ClCompile Include="Bai14.cpp" />
     <ClCompile Include="Bai5.cpp" />
     <ClCompile Include="Bai6.cpp" />
     <ClCompile Include="Bai7.cpp" />
